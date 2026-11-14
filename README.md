@@ -2,7 +2,7 @@
 
 **An end-to-end analytics project: market data from Yahoo Finance, a PostgreSQL warehouse, a documented SQL analysis, and a five-page interactive dashboard built with AI assistance (Claude) and validated against independent calculations.**
 
-**Live dashboard:** https://YOUR_USERNAME.github.io/cross-asset-risk-analysis/
+**Live dashboard:** https://aryan-insights.github.io/cross-asset-risk-analysis/
 
 ![Executive overview](docs/images/01_executive_overview.png)
 
