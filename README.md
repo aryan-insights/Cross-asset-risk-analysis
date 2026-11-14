@@ -287,5 +287,6 @@ This project shows historical evidence only. Past performance does not predict f
 
 ## Author
 
-**Aryan Puri**, final-year BCA student, focused on data analytics and data engineering.
-GitHub: https://github.com/aryan-insights | LinkedIn:https://www.linkedin.com/in/aryan-puri-316739376?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+**Aryan Puri**
+GitHub: https://github.com/aryan-insights | 
+LinkedIn:https://www.linkedin.com/in/aryan-puri-316739376?utm_source=share_via&utm_content=profile&utm_medium=member_ios
