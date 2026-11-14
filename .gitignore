@@ -1,0 +1,18 @@
+   # prices downloaded from Yahoo Finance
+   data/raw/*
+   data/clean/*
+   !data/raw/.gitkeep
+   !data/clean/.gitkeep
+
+   # secrets and environments
+   .env
+   .venv/
+
+   # python
+   __pycache__/
+   *.pyc
+
+   # OS and editor
+   .DS_Store
+   Thumbs.db
+   .vscode/
